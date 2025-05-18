@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "suggestion-provider",
+  "version": "1.0",
+  "name": "Suggestion Provider",
+  "description": "Fix suggestion to show custom resources",
+  "authors": [
+    "BizCub"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "icon.png",
+  "environment": "*",
+  "entrypoints": {},
+  "mixins": [
+    "suggestion-provider.mixins.json"
+  ],
+  "depends": {
+  }
+}

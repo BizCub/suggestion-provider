@@ -1,0 +1,17 @@
+# Project exclude paths
+.gradle
+build
+remappedSrc
+
+.idea/
+*.iml
+*.ipr
+*.iws
+*.xml
+
+hs_err_*.log
+replay_*.log
+*.hprof
+*.jfr
+
+run

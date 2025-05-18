@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.bizcub.suggestionProvider.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "SuggestionProviderMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
