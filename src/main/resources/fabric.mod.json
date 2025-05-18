@@ -7,14 +7,16 @@
   "authors": [
     "BizCub"
   ],
-  "contact": {},
+  "contact": {
+    "homepage": "https://modrinth.com/mod/suggestions-fix",
+    "issues": "https://github.com/BizCub/suggestion-provider/issues",
+    "sources": "https://github.com/BizCub/suggestion-provider"
+  },
   "license": "MIT",
   "icon": "icon.png",
   "environment": "*",
   "entrypoints": {},
   "mixins": [
     "suggestion-provider.mixins.json"
-  ],
-  "depends": {
-  }
+  ]
 }
