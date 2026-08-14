@@ -2,7 +2,7 @@
   "required": true,
   "minVersion": "0.8",
   "compatibilityLevel": "JAVA_9",
-  "package": "com.bizcub.suggestionProvider.mixin",
+  "package": "io.github.bizcub.suggestionProvider.mixin",
   "mixins": [
     "SuggestionProviderMixin"
   ],

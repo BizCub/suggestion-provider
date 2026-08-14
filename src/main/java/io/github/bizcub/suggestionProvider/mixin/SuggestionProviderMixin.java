@@ -1,4 +1,4 @@
-package com.bizcub.suggestionProvider.mixin;
+package io.github.bizcub.suggestionProvider.mixin;
 
 import net.minecraft.command.CommandSource;
 import org.spongepowered.asm.mixin.Mixin;
